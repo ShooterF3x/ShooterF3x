@@ -52,4 +52,4 @@
 ### 📫 Contact & Collaboration
 Si vous êtes un passionné d'aérodynamique, un développeur ou un pilote curieux, n'hésitez pas à ouvrir une *Issue* ou à me retrouver sur la pente !
 
-[![GitHub Follow](https://img.shields.io/github/followers/TON_PSEUDO?label=Follow%20the%20Lab&style=social)](https://github.com/TON_PSEUDO)
+[![GitHub Follow](https://img.shields.io/github/followers/TON_PSEUDO?label=Follow%20the%20Lab&style=social)](https://github.com/TON_PSEUDO
