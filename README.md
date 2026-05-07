@@ -37,8 +37,8 @@
 | :--- | :--- |
 | **📱 Mobile App** | [Télécharger F3F Lab App](https://github.com/ShooterF3x/F3F-ManagerAPK/releases/tag/V6.0) |
 | **🌳 Linktree** | [Tous mes liens & QR Code](https://linktr.ee/JibeF3FLab?utm_source=linktree_profile_share&ltsid=e6e7a9e8-b861-4669-9576-d239508e86b6)) |
-| **👥 Communauté** | [Groupe Facebook F3F France (Modérateur)]([LIEN_GROUPE_FB](https://www.facebook.com/groups/194423747408917)) |
-| **🏆 Officiel** | [F3F France - Classements & Calendrier]([http://www.f3f-france.fr](https://www.f3f-france.com/index.php/qu-est-ce-que-le-f3f/presentation)) |
+| **👥 Communauté** | [Groupe Facebook F3F France (Modérateur)](https://www.facebook.com/groups/194423747408917)|
+| **🏆 Officiel** | [F3F France - Classements & Calendrier](https://www.f3f-france.com/index.php/qu-est-ce-que-le-f3f/presentation) |
 
 ---
 
