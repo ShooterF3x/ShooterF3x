@@ -14,9 +14,9 @@
 
 | Machine | Envergure | Fabricant | Fichiers de Données |
 | :--- | :---: | :---: | :--- |
-| **Freestyler 6** | 2.94 m |TUD MODEL | //[📁 Voir le repo](./hangar-fs6) |
-| **ODIN** | 3.00 m | ROLLIN COMPOSITE | //[📁 Voir le repo](./hangar-pp2) |
-| **Cosmos** | 2.90 m |Mathieu BARRABES |// [📁 Voir le repo](./hangar-shinto) |
+| **Freestyler 6** | 2.94 m |TUD MODEL |  |
+| **ODIN** | 3.00 m | ROLLIN COMPOSITE |  |
+| **Cosmos** | 2.90 m |Mathieu BARRABES | |
 
 ---
 
