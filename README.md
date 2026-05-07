@@ -1,4 +1,4 @@
-# 🧪 F3F Lab | Aeronautical Performance & Speed 🚀
+#  F3F Lab | Aeronautical Performance & Speed 
 
 > **L'intersection entre l'aéromodélisme de compétition et l'ingénierie de précision.**  
 > Bienvenue dans le dépôt officiel du F3F Lab. Ici, le vent est une donnée, et la gravité une alliée.
@@ -10,13 +10,13 @@
 ---
 
 ### 🏛️ Le Hangar Technique
-*Accédez aux fichiers de configuration (EdgeTX/OpenTX), aux schémas de ballastage et à la télémétrie de chaque machine.*
+//*Accédez aux fichiers de configuration (EdgeTX/OpenTX), aux schémas de ballastage et à la télémétrie de chaque machine.*
 
-| Machine | Envergure | Charge Alaire Max | Fichiers de Données |
+| Machine | Envergure | Fabricant | Fichiers de Données |
 | :--- | :---: | :---: | :--- |
-| **Freestyler 6** | 2.94 m | +1.5 kg | [📁 Voir le repo](./hangar-fs6) |
-| **Pike Precision 2** | 2.96 m | +1.2 kg | [📁 Voir le repo](./hangar-pp2) |
-| **Shinto** | 2.99 m | +1.8 kg | [📁 Voir le repo](./hangar-shinto) |
+| **Freestyler 6** | 2.94 m |TUD MODEL | //[📁 Voir le repo](./hangar-fs6) |
+| **ODIN** | 3.00 m | ROLLIN COMPOSITE | //[📁 Voir le repo](./hangar-pp2) |
+| **Cosmos** | 2.90 m |Mathieu BARRABES |// [📁 Voir le repo](./hangar-shinto) |
 
 ---
 
