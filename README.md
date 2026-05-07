@@ -14,7 +14,7 @@
 
 | Machine | Wingspan | Manufacturer | Data Files |
 | :--- | :---: | :---: | :--- |
-| **Freestyler 6** | 2.94 m | TUD MODEL | Coming soon |
+| **Freestyler 5** | 2.94 m | TUD MODEL | Coming soon |
 | **ODIN** | 3.00 m | ROLLIN COMPOSITES | Coming soon |
 | **Cosmos** | 2.90 m | Mathieu BARRABES | Coming soon |
 
