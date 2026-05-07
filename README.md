@@ -14,9 +14,9 @@
 
 | Machine | Envergure | Fabricant | Fichiers de Données |
 | :--- | :---: | :---: | :--- |
-| **Freestyler 6** | 2.94 m |TUD MODEL |  |
-| **ODIN** | 3.00 m | ROLLIN COMPOSITE |  |
-| **Cosmos** | 2.90 m |Mathieu BARRABES | |
+| **Freestyler 6** | 2.94 m |TUD MODEL | à suivre |
+| **ODIN** | 3.00 m | ROLLIN COMPOSITE | à suivre |
+| **Cosmos** | 2.90 m |Mathieu BARRABES |à suivre |
 
 ---
 
