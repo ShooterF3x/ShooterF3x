@@ -43,8 +43,8 @@
 ---
 
 ### 🛠️ Ma stack technologique
-- **Hardware :** EdgeTX / FrSky / KST Digital Servos
-- **Software :** F3F Lab App (Dart/Flutter), Python pour l'analyse de logs de vol.
+- **Hardware :** EdgeTX / ELRS / KST Digital Servos & OCSERVOS
+- **Software :** F3F Lab App 
 - **Physique :** Aérodynamique des profils, Gestion dynamique du centre de gravité.
 
 ---
