@@ -1,4 +1,4 @@
-# 🧪 F3F Lab | Aeronautical Performance & Speed 🚀
+#  F3F Lab | Aeronautical Performance & Speed 
 
 > **The intersection of competitive model aviation and precision engineering.**  
 > Welcome to the official F3F Lab repository. Here, wind is a data point, and gravity is an ally.
