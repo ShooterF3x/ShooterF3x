@@ -43,7 +43,7 @@
 ---
 
 ### 🛠️ Ma stack technologique
-- **Hardware :** EdgeTX / ELRS / KST Digital Servos & OCSERVOS
+- **Hardware :** RADIOMASTER EdgeTX / ELRS / KST Digital Servos & OCSERVOS
 - **Software :** F3F Lab App 
 - **Physique :** Aérodynamique des profils, Gestion dynamique du centre de gravité.
 
