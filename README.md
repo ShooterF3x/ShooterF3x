@@ -35,8 +35,8 @@
 
 | Support | Destination |
 | :--- | :--- |
-| **📱 Mobile App** | [Télécharger F3F Lab App](TON_LIEN_APP) |
-| **🌳 Linktree** | [Tous mes liens & QR Code](TON_LIEN_LINKTREE) |
+| **📱 Mobile App** | [Télécharger F3F Lab App]](https://github.com/ShooterF3x/F3F-ManagerAPK/releases/tag/V6.0) |
+| **🌳 Linktree** | [Tous mes liens & QR Code]([TON_LIEN_LINKTREE](https://linktr.ee/JibeF3FLab?utm_source=linktree_profile_share&ltsid=e6e7a9e8-b861-4669-9576-d239508e86b6)) |
 | **👥 Communauté** | [Groupe Facebook F3F France (Modérateur)](LIEN_GROUPE_FB) |
 | **🏆 Officiel** | [F3F France - Classements & Calendrier](http://www.f3f-france.fr) |
 
