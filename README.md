@@ -10,7 +10,7 @@
 ---
 
 ### 🏛️ Le Hangar Technique
-<!-- *Accédez aux fichiers de configuration (EdgeTX/OpenTX), aux schémas de ballastage et à la télémétrie de chaque machine.* --!>
+ *Accédez aux fichiers de configuration (EdgeTX/OpenTX), aux schémas de ballastage et à la télémétrie de chaque machine.*
 
 | Machine | Envergure | Fabricant | Fichiers de Données |
 | :--- | :---: | :---: | :--- |
