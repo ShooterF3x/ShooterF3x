@@ -20,7 +20,7 @@
 
 ---
 
-<--! ### 📊 Dashboard de Performance (Live)
+<!-- ### 📊 Dashboard de Performance (Live)
 *Données relevées lors des dernières sessions d'entraînement.*
 
 - **⚡ Vitesse Max estimée :** 180+ km/h
