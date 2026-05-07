@@ -20,13 +20,13 @@
 
 ---
 
-### 📊 Dashboard de Performance (Live)
+<--! ### 📊 Dashboard de Performance (Live)
 *Données relevées lors des dernières sessions d'entraînement.*
 
 - **⚡ Vitesse Max estimée :** 180+ km/h
 - **⏱️ Record Personnel (Base 100m) :** 34.2s
 - **📍 Spot actuel :** Championnat de France 2026
-- **🛠️ En cours :** Optimisation des mixages de virage (Snap-flap curves).
+- **🛠️ En cours :** Optimisation des mixages de virage (Snap-flap curves). -->
 
 ---
 
